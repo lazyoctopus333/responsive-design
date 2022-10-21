@@ -1,0 +1,47 @@
+.heading-container{
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(2, 118, 101);
+}
+body{
+    font-family: "Inter";
+    background-color: #515151 ;
+}
+
+.intro{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+.part1{
+    display: flex;
+    width: 100%;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+.part2{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+.part3{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-right: auto;
+    margin-left:auto;
+}
